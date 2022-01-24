@@ -1,6 +1,23 @@
+/* google font  link  */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200;400&display=swap');
+
+* {
+    font-family: 'Roboto Mono', monospace;
+}
+
+/* css font family  */
 #batton:hover {
     color: rgb(45, 41, 246);
-    font-weight: 800;
-    background: rgb(153, 158, 153);
+    font-weight: 700;
+}
 
+#h1 {
+    color: lime;
+    border-left: 5px solid magenta;
+    padding-left: 10px;
+    font-weight: 800;
+}
+
+#hadding {
+    color: black;
 }
